@@ -86,6 +86,4 @@ After 100 requests in 100 seconds, you’ll get:
 
 ---
 
-## ✅ Conclusion
-This microservice implements a simple but powerful Token Bucket-based rate limiter using `slowapi` to defend the API against request bursts and ensure fair usage. The architecture is extendable for distributed environments (via Redis) and ready for production scenarios.
 
